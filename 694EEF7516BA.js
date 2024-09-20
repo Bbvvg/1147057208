@@ -12,7 +12,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^http[s]?:\/\/league-api.huazhuanapp.com\/api\/v1\/wallpaper\/generator\/vip\/info url script-response-body xxys.js
+^http[s]?:\/\/league-api.huazhuanapp.com\/api\/v1\/wallpaper\/generator\/vip\/info url script-response-body https://github.com/Bbvvg/1147057208/edit/main/694EEF7516BA.js
 
 [mitm] 
 
